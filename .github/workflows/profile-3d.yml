@@ -1,28 +1,32 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:               # 매일 03:00 KST(= 18:00 UTC)에 실행
-    - cron: "0 18 * * *"
-  workflow_dispatch:      # 수동 실행 허용
+  schedule:
+    - cron: "0 18 * * *"   # 매일 03:00 KST (18:00 UTC)
+  workflow_dispatch:        # 수동 실행 허용
 
 permissions:
-  contents: write         # output 커밋/푸시 권한
+  contents: write           # output 커밋/푸시 권한
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution images
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # 기본 제공 토큰이면 충분
-          USERNAME: ${{ github.repository_owner }}    # 자동으로 Hun-Bot2
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}    # 기본 토큰으로 충분
+          USERNAME: ${{ github.repository_owner }}     # 자동으로 Hun-Bot2
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
+          if git commit -m "chore: generate 3D contribution images"; then
             git push
           fi
