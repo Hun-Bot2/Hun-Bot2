@@ -2,18 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 매일 자정 (UTC 기준)
-  workflow_dispatch:       # 수동 실행 허용
+    - cron: "0 0 * * *"  # 매일 자정 UTC
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      # 1. 소스 체크아웃
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 2. Snake 생성
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: Hun-Bot2
           outputs: dist/github-contribution-grid-snake.svg
 
+      # 3. GitHub Pages로 결과 푸시
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
