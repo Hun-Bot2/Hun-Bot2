@@ -14,12 +14,6 @@
 
 ---
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/awesome-banners/Neon-gradient.gif" width="100%" alt="Animated tech banner"/>
-</p>
-
-
 ## 🧭 About Me
 > “Blending AI and backend engineering to make digital systems more human and interactive.”
 
@@ -28,8 +22,8 @@
 - 💻 Interested in **AI systems, backend architecture, and 3D web interaction**  
 - 🏗️ Currently working on:
   - **Procrastinate Planner** – AI Task Scheduler (Go + Supabase)
-  - **WeGrow** – AI Baby Development Toy (FastAPI + React)
-  - **Basketball Analyzer** – Computer Vision Form Tracking (Python + Pose Estimation)
+  - **Basketball Shooting MoationAnalyzer** – Computer Vision Form Tracking (Python + Pose Estimation)
+  - ETC...
 
 ---
 
@@ -59,12 +53,7 @@
 
 ## 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hun-Bot2&show_icons=true&theme=transparent&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hun-Bot2&theme=transparent&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hun-Bot2&theme=flat&no-frame=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hun-Bot2&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 <br/>
@@ -76,7 +65,25 @@
 
 ---
 
+<br/>
+
+---
+## 🗻 3D Contribution Graph
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D Contributions (light)" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D Contributions (dark)" />
+</p>
+
+---
+
+<br/>
+
 ## 🌐 Explore More
 <p align="center">
-  <a href="https://three.hunbot.dev">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-Live-blueviolet?style=for-the-badge&logo=three.js&logoColor=wh
+  <a href="https://three.hunbot.dev" target="_blank">
+    <img src="https://img.shields.io/badge/3D%20Portfolio-Live-blueviolet?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio live demo" />
+  </a>
+  <a href="https://hunbot-dev.vercel.app/ko/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-hunbot.dev-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog at hunbot.dev" />
+  </a>
+</p>
