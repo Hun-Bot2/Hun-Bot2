@@ -16,9 +16,8 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/awesome-banners/Blue-technology.gif" width="100%" alt="Animated tech banner"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/awesome-banners/Neon-gradient.gif" width="100%" alt="Animated tech banner"/>
 </p>
-
 
 
 ## 🧭 About Me
