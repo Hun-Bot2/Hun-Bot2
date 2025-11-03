@@ -63,8 +63,6 @@
   <img src="https://github.com/Hun-Bot2/Hun-Bot2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
----
-
 <br/>
 
 ---
