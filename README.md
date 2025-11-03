@@ -10,14 +10,16 @@
   <a href="https://www.linkedin.com/in/hunbot-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+<br/>
+
 ---
 
-<!-- Wave Animation Banner -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hun-Bot2/Hun-Bot2/main/assets/wave.svg" width="100%" alt="wave animation"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/awesome-banners/Blue-technology.gif" width="100%" alt="Animated tech banner"/>
 </p>
 
----
+
 
 ## 🧭 About Me
 > “Blending AI and backend engineering to make digital systems more human and interactive.”
