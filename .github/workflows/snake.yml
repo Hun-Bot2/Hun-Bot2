@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # 매일 자정 UTC
-  workflow_dispatch:      # 수동 실행 허용
+    - cron: "0 0 * * *"   # 매일 자정 (UTC 기준)
+  workflow_dispatch:       # 수동 실행 허용
 
 jobs:
   build:
@@ -13,6 +13,7 @@ jobs:
         with:
           github_user_name: Hun-Bot2
           outputs: dist/github-contribution-grid-snake.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
