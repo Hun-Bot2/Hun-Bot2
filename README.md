@@ -51,8 +51,7 @@
 
 | Project | Description | Tech Stack | Link |
 |----------|--------------|-------------|------|
-| 🪄 **Procrastinate Planner** | AI-powered task scheduling app | Go, Supabase, JWT, Whisper API | [Repo](https://github.com/hunbot-dev/ProcrastinatePlanner) |
-| 🤖 **WeGrow** | AI baby companion analyzing speech patterns | FastAPI, React, PostgreSQL | [Repo](https://github.com/wegrow2025) |
+| 🪄 **Procrastinate Planner** | AI-powered task scheduling app | Go, Supabase, JWT, Whisper API | [Repo](#) |
 | 🏀 **Basketball Analyzer** | Pose-based basketball shot feedback | Python, OpenCV, TensorFlow | [Repo](#) |
 | 🧠 **AI Exam Platform** | Streamlit + FastAPI + GNN question generator | Python, FastAPI, ML | [Repo](#) |
 
