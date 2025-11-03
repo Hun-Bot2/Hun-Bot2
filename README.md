@@ -14,13 +14,12 @@
 
 <!-- Wave Animation Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hunbot-dev/hunbot-dev/main/assets/wave.svg" width="100%" alt="wave animation"/>
+  <img src="https://raw.githubusercontent.com/Hun-Bot2/Hun-Bot2/main/assets/wave.svg" width="100%" alt="wave animation"/>
 </p>
 
 ---
 
 ## 🧭 About Me
-
 > “Blending AI and backend engineering to make digital systems more human and interactive.”
 
 - 🎓 **B.S. in Computer Education**, Sungkyunkwan University  
@@ -58,7 +57,6 @@
 ---
 
 ## 📈 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hun-Bot2&show_icons=true&theme=transparent&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hun-Bot2&theme=transparent&hide_border=true" height="160"/>
@@ -68,7 +66,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hun-Bot2&theme=flat&no-frame=true&margin-w=8" />
 </p>
 
----
+<br/>
 
 ## 🐍 Contribution Snake
 <p align="center">
@@ -78,19 +76,6 @@
 ---
 
 ## 🌐 Explore More
-
 <p align="center">
   <a href="https://three.hunbot.dev">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-Live-blueviolet?style=for-the-badge&logo=three.js&logoColor=white" />
-  </a>
-  <a href="https://blog.hunbot.dev">
-    <img src="https://img.shields.io/badge/Tech%20Blog-Articles-orange?style=for-the-badge&logo=hashnode&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💬 Motto
-> “Build things that outlive you.”  
-> Code is not just logic — it’s design, empathy, and persistence.
-
+    <img src="https://img.shields.io/badge/3D%20Portfolio-Live-blueviolet?style=for-the-badge&logo=three.js&logoColor=wh
