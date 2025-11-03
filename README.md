@@ -6,7 +6,9 @@
 <!-- Links Section -->
 <p align="center">
   <a href="https://hunbot.dev"><img alt="Website" src="https://img.shields.io/badge/Portfolio-hunbot.dev-black?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://blog.hunbot.dev"><img alt="Blog" src="https://img.shields.io/badge/Blog-Insights-1E90FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
+   <a href="https://hunbot-dev.vercel.app/ko/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-hunbot.dev-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog at hunbot.dev" />
+  </a>
   <a href="https://www.linkedin.com/in/hunbot-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
@@ -18,7 +20,7 @@
 > “Blending AI and backend engineering to make digital systems more human and interactive.”
 
 - 🎓 **B.S. in Computer Education**, Sungkyunkwan University  
-- 💡 **Interdisciplinary Major:** Intelligent Information Convergence  
+- 💡 **Interdisciplinary Major:** NeuroScience
 - 💻 Interested in **AI systems, backend architecture, and 3D web interaction**  
 - 🏗️ Currently working on:
   - **Procrastinate Planner** – AI Task Scheduler (Go + Supabase)
@@ -58,13 +60,6 @@
 
 <br/>
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Hun-Bot2/Hun-Bot2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-<br/>
-
 ---
 ## 🗻 3D Contribution Graph
 <p align="center">
@@ -77,11 +72,9 @@
 <br/>
 
 ## 🌐 Explore More
-<p align="center">
+Update soon...
+<!-- <p align="center">
   <a href="https://three.hunbot.dev" target="_blank">
     <img src="https://img.shields.io/badge/3D%20Portfolio-Live-blueviolet?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Portfolio live demo" />
   </a>
-  <a href="https://hunbot-dev.vercel.app/ko/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-hunbot.dev-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog at hunbot.dev" />
-  </a>
-</p>
+</p> -->
