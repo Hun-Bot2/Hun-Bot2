@@ -38,7 +38,7 @@
 
 **Infrastructure & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,railway,vercel,docker,aws,azure,git,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,vercel,docker,aws,azure,git,githubactions" />
 </p>
 
 ---
