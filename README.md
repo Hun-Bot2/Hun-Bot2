@@ -5,16 +5,15 @@
 
 <!-- Links Section -->
 <p align="center">
-  <!-- <a href="#"><img alt="Website" src="https://img.shields.io/badge/Portfolio-hunbot.dev-black?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
-   <a href="https://hunbot-dev.vercel.app/ko/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-hunbot.dev-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog at hunbot.dev" />
-  </a>
-  <a href="https://www.linkedin.com/in/hunbot-dev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://hunbot-dev.vercel.app/ko/"><img src="https://img.shields.io/badge/Tech%20Blog-hunbot.dev-orange?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/hunbot-dev/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+<h5 align="center">🔗 New window — Windows: <b>Ctrl + Click</b> | Mac: <b>Cmd + Click</b></h5>
 
 <br/>
 
 ---
+
 
 ## 🧭 About Me
 > “Blending AI and backend engineering to make digital systems more human and interactive.”
