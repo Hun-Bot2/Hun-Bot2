@@ -23,15 +23,15 @@
 <!-- INTRODUCTION                                                -->
 <!-- =========================================================== -->
 
-## 🧭 About Me
+## About Me
 I’m an AI & Backend Engineer working across **LLM pipelines**, **Computer Vision**, and **Go/Python backend systems**.  
 My recent work includes a **3D interactive portfolio**, a **Korean grammar VSCode extension**, a **production-ready Go backend for a hackathon**, and a **TypeScript growth-graph visualizer**.  
 I enjoy exploring new technologies and value a joyful, sustainable career over simply chasing the highest possible income.
 
-- 🎓 **B.S. in Computer Education**, Sungkyunkwan University  
-- 💡 **Interdisciplinary Major:** Intelligent Information Convergence  
-- 💻 Interested in **LLM engineering, CV/3D vision, backend architecture**  
-- 🏗️ Currently working on:
+- **B.S. in Computer Education**, Sungkyunkwan University  
+- **Interdisciplinary Major:** Intelligent Information Convergence  
+- Interested in **LLM engineering, CV/3D vision, backend architecture**  
+- Currently working on:
   - **Procrastinate Planner** – AI Task Scheduler (Go + Supabase + Whisper)  
   - **Basketball Motion Analyzer** – CV-based shooting form tracking (Python + Pose Estimation)  
   - **WeGrow / Growth Graph + 3D/Media-art experiments**
@@ -42,7 +42,7 @@ I enjoy exploring new technologies and value a joyful, sustainable career over s
 <!-- SKILL SET                                                   -->
 <!-- =========================================================== -->
 
-## 🧠 Skill Set
+## Skill Set
 
 ### AI Engineering
 - LLM pipelines (prompting, embeddings, Whisper integration)  
@@ -71,7 +71,7 @@ I enjoy exploring new technologies and value a joyful, sustainable career over s
 <!-- WHAT I OFFER                                                -->
 <!-- =========================================================== -->
 
-## 💡 What I Offer
+## What I Offer
 
 - **AI-powered solutions:**  
   I build practical AI systems using LLMs and CV—from **intelligent task schedulers** to **3D/graph-based analytics** and **real-time pose-estimation tools**.  
@@ -91,7 +91,7 @@ I enjoy exploring new technologies and value a joyful, sustainable career over s
 <!-- FUTURE GOALS                                                -->
 <!-- =========================================================== -->
 
-## 🎯 What I'm Aiming For
+## What I'm Aiming For
 
 I’m currently diving deep into **Computer Vision and 3D Vision**, working on pose estimation, Gaussian Splatting, and 3D scene reconstruction.  
 My goal is to build AI systems that understand movement, spatial structure, and visual patterns — and transform them into interactive or artistic applications.
@@ -105,14 +105,14 @@ I want to keep building challenging projects that are technically meaningful and
 <!-- FEATURED PROJECTS                                           -->
 <!-- =========================================================== -->
 
-## 🚀 Featured Projects
-> 🔥 *Pinned repositories are customized on my profile.*
+## Featured Projects
+> *Pinned repositories are customized on my profile.*
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🪄 **Procrastinate Planner** | AI-powered task scheduling (Whisper + Go backend) | Go, Supabase, Whisper API | [Repo](https://github.com/Hun-Bot2/COM_AI_HACKATHON) |
-| 🏀 **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | Building.... |
-| 📦 **VSCode Extension – BKGA** | Korean grammar correction assistant | TypeScript, Node.js | [Repo](https://github.com/Hun-Bot2/smart-korean-grammar-assistant) |
+| **Procrastinate Planner** | AI-powered task scheduling (Whisper + Go backend) | Go, Supabase, Whisper API | [Repo](https://github.com/Hun-Bot2/COM_AI_HACKATHON) |
+| **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | Building.... |
+| **VSCode Extension – BKGA** | Korean grammar correction assistant | TypeScript, Node.js | [Repo](https://github.com/Hun-Bot2/smart-korean-grammar-assistant) |
 
 ---
 
@@ -120,7 +120,7 @@ I want to keep building challenging projects that are technically meaningful and
 <!-- CONTRIBUTION VISUALS                                        -->
 <!-- =========================================================== -->
 
-## 🗻 3D Contribution Graph
+## 3D Contribution Graph
 <p align="center">
   <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D Contributions (light)" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D Contributions (dark)" />
@@ -128,7 +128,7 @@ I want to keep building challenging projects that are technically meaningful and
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <p align="center">
   <img src="https://github.com/Hun-Bot2/Hun-Bot2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
