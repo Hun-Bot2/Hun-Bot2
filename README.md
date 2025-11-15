@@ -111,7 +111,7 @@ I want to keep building challenging projects that are technically meaningful and
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | 🪄 **Procrastinate Planner** | AI-powered task scheduling (Whisper + Go backend) | Go, Supabase, Whisper API | [Repo](https://github.com/Hun-Bot2/COM_AI_HACKATHON) |
-| 🏀 **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | [Repo](#) |
+| 🏀 **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | Building.... |
 | 📦 **VSCode Extension – BKGA** | Korean grammar correction assistant | TypeScript, Node.js | [Repo](https://github.com/Hun-Bot2/smart-korean-grammar-assistant) |
 
 ---
