@@ -108,6 +108,8 @@ I want to keep building challenging projects that are technically meaningful and
 ## Featured Projects
 > *Pinned repositories are customized on my profile.*
 
+[![VSCode Extension](https://img.shields.io/badge/VSCode-Bareun%20Korean%20Grammar%20Assistant-blue?logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=Hun-Bot.bkga)
+
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Procrastinate Planner** | AI-powered task scheduling (Whisper + Go backend) | Go, Supabase, Whisper API | [Repo](https://github.com/Hun-Bot2/COM_AI_HACKATHON) |
