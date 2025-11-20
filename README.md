@@ -24,9 +24,12 @@
 <!-- =========================================================== -->
 
 ## About Me
-I’m an AI & Backend Engineer working across **LLM pipelines**, **Computer Vision**, and **Go/Python backend systems**.  
-My recent work includes a **3D interactive portfolio**, a **Korean grammar VSCode extension**, a **production-ready Go backend for a hackathon**, and a **TypeScript growth-graph visualizer**.  
-I enjoy exploring new technologies and value a joyful, sustainable career over simply chasing the highest possible income.
+I’m an AI & Backend Engineer working across LLM pipelines, CV, and Go/Python backend systems.  
+I build real, deployable products—from a Korean grammar VSCode extension (BKGA) to AI task schedulers, growth-graph visualizers, and 3D interactive experiences.
+
+I value a joyful, sustainable developer career rather than simply chasing income.  
+Currently exploring CV and 3D vision to build intelligent, interactive, and artistic AI systems.
+
 
 - **B.S. in Computer Education**, Sungkyunkwan University  
 - **Interdisciplinary Major:** Intelligent Information Convergence  
@@ -113,7 +116,7 @@ I want to keep building challenging projects that are technically meaningful and
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Procrastinate Planner** | AI-powered task scheduling (Whisper + Go backend) | Go, Supabase, Whisper API | [Repo](https://github.com/Hun-Bot2/COM_AI_HACKATHON) |
-| **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | Building.... |
+| **Basketball Analyzer** | Pose-estimation based motion analysis | Python, OpenCV, TensorFlow | In progress |
 | **VSCode Extension – BKGA** | Korean grammar correction assistant | TypeScript, Node.js | [Repo](https://github.com/Hun-Bot2/smart-korean-grammar-assistant) |
 
 ---
@@ -127,14 +130,6 @@ I want to keep building challenging projects that are technically meaningful and
   <img src="./profile-3d-contrib/profile-green-animate.svg#gh-light-mode-only" alt="3D Contributions (light)" />
   <img src="./profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D Contributions (dark)" />
 </p>
-
----
-
-## Contribution Snake
-<p align="center">
-  <img src="https://github.com/Hun-Bot2/Hun-Bot2/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
 ---
 
 <!-- =========================================================== -->
