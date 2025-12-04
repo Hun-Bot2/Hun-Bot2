@@ -24,11 +24,13 @@
 <!-- =========================================================== -->
 
 ## About Me
-I’m an AI & Backend Engineer working across LLM pipelines, CV, and Go/Python backend systems.  
-I build real, deployable products—from a Korean grammar VSCode extension (BKGA) to AI task schedulers, growth-graph visualizers, and 3D interactive experiences.
+I’m an AI × Software Engineer who builds working products by combining LLMs, backend architecture, and interactive web technologies.
+Rather than focusing on a single technical domain, I enjoy defining problems, shaping user experience, and assembling AI + software components into real, usable services.
 
-I value a joyful, sustainable developer career rather than simply chasing income.  
-Currently exploring CV and 3D vision to build intelligent, interactive, and artistic AI systems.
+I’ve built tools ranging from a VSCode Korean grammar extension (BKGA) to AI-driven task planners, adaptive learning systems, and 3D interactive visualizations.
+My work focuses on bridging the gap between development and design, AI and product, turning ideas into tangible experiences.
+
+I pursue a joyful, sustainable developer life, continuously exploring new interfaces, multimodal AI, and creative applications of technology.
 
 
 - **B.S. in Computer Education**, Sungkyunkwan University  
@@ -76,13 +78,15 @@ Currently exploring CV and 3D vision to build intelligent, interactive, and arti
 
 ## What I Offer
 
-- **AI-powered solutions:**  
-  I build practical AI systems using LLMs and CV—from **intelligent task schedulers** to **3D/graph-based analytics** and **real-time pose-estimation tools**.  
-  I focus on AI that delivers real value, not just prototypes.
+- **Product-oriented AI engineering**
+I design AI features not as demos, but as integrated parts of real services — LLM pipelines, CV modules, multimodal flows, and backend systems.
 
-- **Backend expertise:**  
-  With hands-on experience in **Go** and **Python**, I design scalable backend architectures.  
-  I’ve built production-ready systems using **Supabase**, **Railway**, **FastAPI**, and **PostgreSQL**, with emphasis on maintainability and performance.
+- **Full-cycle software execution**
+From concept → architecture → backend → frontend interaction → deployment,
+I am comfortable owning the full lifecycle to deliver a working product.
+
+- **Interaction-focused thinking**
+I enjoy creating systems where users feel the intelligence — through UI, 3D scenes, motion analysis, or real-time feedback loops.
 
 - **Growth-driven mindset:**  
   I love turning ideas into real products—whether it’s a **VSCode extension**, **3D portfolio**, or **AI-driven utilities**.  
