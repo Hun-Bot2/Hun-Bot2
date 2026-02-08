@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <td width="76%" valign="top">
+    <td width="70%" valign="top">
       <h3>About Me</h3>
       <p>
         <b>"My best ideas come from my daily walks."</b>
@@ -34,7 +34,7 @@
       <b>I turn "I wish this existed" into deployed software.</b>
       </p>
     </td>
-    <td width="24%" valign="top">
+    <td width="30%" valign="top">
       <h3>Tech Stack</h3>
       <b>Languages</b><br/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
