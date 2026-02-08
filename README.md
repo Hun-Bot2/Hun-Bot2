@@ -73,49 +73,13 @@
 </p>
 <br/>
 
-<details>
-<summary><b>View System Architectures (Blog & Bots)</b></summary>
-
-<br/>
-<b>1. hunbot.dev (BlogOps Architecture)</b>
-
-```mermaid
-flowchart LR
-    User -->|Access| CF[Cloudflare]
-    CF --> Vercel[Vercel Edge]
-    Vercel -->|Cache/View| Redis[Upstash Redis]
-    
-    subgraph Local Intelligence
-    Runner[Self-Hosted Runner] -->|Inference| Ollama[Ollama LLM]
-    Ollama -->|Translate & Commit| GH[GitHub]
-    end
-    
-    GH -->|Trigger Deploy| Vercel
-    Runner -.->|Metrics| Grafana[Grafana Dashboard]
-```
-</details>
-
-<details>
-<summary><b>View Algorithm Bot Architecture</b></summary>
-
-<br/>
-
-```mermaid
-flowchart LR
-    User(Solved Problem) -->|Trigger| Go[Go Backend]
-    Go -->|gRPC| Py{Python AI Worker}
-    Py -->|Embedding| DB[(Vector DB)]
-    DB -->|Retrieve Similar| Py
-    Py -->|RAG Response| Go
-    Go -->|Notification| Slack[Slack Bot]
-```
-
-</details>
-
 <h3> In Development</h3>
 
 | Project | Description | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **JP Biz Coach** | **Japanese Communication AI**<br/>Business conversation & JLPT N1 speaking practice app. | `Go` `OpenAI` `TTS` | `🚧 Developing` |
+| **Add-on Dr.** | **Utility Service**<br/>Finding hidden carrier add-on services. | `Go` `Scraping` | [Blog ↗](https://hun-bot.dev/ko/blog/devlog/add_on_doctor/value-added_services/) |
+| **JP Biz Coach** | **Japanese Communication AI**<br/>Business conversation & JLPT N1 speaking practice app. | `Go` `OpenAI` `TTS` | [Blog ↗](https://hun-bot.dev/ko/blog/devlog/jp_app/japan_hanashiapp_01/) |
 | **Market Watcher** | **Multimodal Stock Trader**<br/>Analyzing Japanese market charts and news. | `Python` `Vision API` | `🚧 Developing` |
-| **Add-on Dr.** | **Utility Service**<br/>Finding hidden carrier add-on services. | `Go` `Scraping` | `🚧 Developing` |
+
+
+
